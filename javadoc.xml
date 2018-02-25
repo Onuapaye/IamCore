@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="../db-derby-10.14.1.0-bin/db-derby-10.14.1.0-bin/lib/derbyclient.jar" destdir="jdoc" doctitle="I Am Core Bismark Documentation" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.fortress.iacb.launcher,com.fortress.iacb.datamodel,com.fortress.iacb.services,com.fortress.iacb.exceptions" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

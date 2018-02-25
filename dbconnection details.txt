@@ -1,0 +1,26 @@
+dbName = IACBdb
+dbUser = fortress
+dbPassword = 4tress
+dbHost = localhost
+dbHost Port = 1527
+dbURL = jdbc:derby://localhost:1527/IACBdb;create=true
+
+CREATE table tblIdentityBismark(
+	Id INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+	firstName VARCHAR(45) NOT NULL,
+	lastName VARCHAR(45) NOT NULL,
+	uniqueID VARCHAR(10) NOT NULL,
+	email VARCHAR(45),
+	PRIMARY KEY(Id),
+	UNIQUE(uniqueID)
+);
+
+CREATE table tblUser(
+	Id INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+	userName VARCHAR(15) NOT NULL,
+	userPassword VARCHAR(15) NOT NULL,
+	userGroup SMALLINT NOT NULL,
+	userEnableLogin BOOLEAN NOT NULL,
+	PRIMARY KEY(Id),
+	UNIQUE(userName)
+);

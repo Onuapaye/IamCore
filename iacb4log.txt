@@ -1,0 +1,100 @@
+2018-02-24_12:58:24.939 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a specific record in the User table
+2018-02-24_12:58:32.325 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching the record for the User: ADMIN for authentication
+2018-02-24_12:58:32.335 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Access authentication sucessful for the Username: admin with Password: @123456u
+2018-02-24_12:58:32.336 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user admin to check enable login status 
+2018-02-24_12:58:32.347 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user ADMIN and return the results as a list
+2018-02-24_12:58:34.321 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_12:58:39.748 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Deleting a record for the identity with unique id TESTID12
+2018-02-24_12:58:39.772 - ERROR - com.fortress.iacb.services.IdentityBismarkDAOCRUD An error of THE COLUMN POSITION '1' IS OUT OF RANGE.  THE NUMBER OF COLUMNS FOR THIS RESULTSET IS '0'. occured while trying to delete a record of the identity with Unique ID TESTID12
+===========================+++++++++++++++++++++++++++++++++++==================================
+2018-02-24_12:59:55.702 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a specific record in the User table
+2018-02-24_13:00:06.521 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching the record for the User: ADMIN for authentication
+2018-02-24_13:00:06.530 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Access authentication sucessful for the Username: admin with Password: @123456u
+2018-02-24_13:00:06.530 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user admin to check enable login status 
+2018-02-24_13:00:06.543 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user ADMIN and return the results as a list
+2018-02-24_13:00:08.370 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_13:00:13.668 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Deleting a record for the identity with unique id TESTID12
+2018-02-24_13:00:13.693 - ERROR - com.fortress.iacb.services.IdentityBismarkDAOCRUD An error of THE COLUMN POSITION '1' IS OUT OF RANGE.  THE NUMBER OF COLUMNS FOR THIS RESULTSET IS '0'. occured while trying to delete a record of the identity with Unique ID TESTID12
+==========================++++++++++++++++++++++++++++++++++++++++===========================
+2018-02-24_13:04:31.352 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a specific record in the User table
+2018-02-24_13:04:39.277 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching the record for the User: ADMIN for authentication
+2018-02-24_13:04:39.288 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Access authentication sucessful for the Username: admin with Password: @123456u
+2018-02-24_13:04:39.288 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user admin to check enable login status 
+2018-02-24_13:04:39.300 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user ADMIN and return the results as a list
+2018-02-24_13:04:41.213 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_13:04:47.403 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Deleting a record for the identity with unique id TESTID12
+2018-02-24_13:06:22.225 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a specific record in the User table
+2018-02-24_13:06:29.183 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching the record for the User: ADMIN for authentication
+2018-02-24_13:06:29.193 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Access authentication sucessful for the Username: admin with Password: @123456u
+2018-02-24_13:06:29.193 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user admin to check enable login status 
+2018-02-24_13:06:29.204 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user ADMIN and return the results as a list
+2018-02-24_13:06:31.596 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_13:06:43.761 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Deleting a record for the identity with unique id TESTID12
+2018-02-24_13:06:47.111 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_16:17:03.261 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a specific record in the User table
+2018-02-24_16:24:46.767 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching the record for the User: ADMIN for authentication
+2018-02-24_16:24:46.829 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Access authentication sucessful for the Username: admin with Password: @123456u
+2018-02-24_16:24:46.829 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user admin to check enable login status 
+2018-02-24_16:24:46.860 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user ADMIN and return the results as a list
+2018-02-24_16:33:30.538 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_16:33:34.336 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_16:33:34.336 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_16:41:51.035 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user epita
+2018-02-24_16:41:51.035 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Creating an application User record for The User Details Are - User Name :epita Password : (not shown)  User Group : Viewer Enable Login : 0
+2018-02-24_16:41:57.243 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_16:41:57.243 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_16:43:41.456 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user epita
+2018-02-24_16:46:31.309 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user thoma-broussar
+2018-02-24_16:46:31.309 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Creating an application User record for The User Details Are - User Name :thoma-broussar Password : (not shown)  User Group : Viewer Enable Login : 1
+2018-02-24_16:50:22.803 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_16:50:22.803 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_16:50:33.594 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_16:50:33.594 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_16:59:03.579 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Updating an application User record for The User Details Are - User Name :epita Password : (not shown)  User Group : Viewer Enable Login : 1
+2018-02-24_16:59:03.688 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_16:59:03.688 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_17:11:44.189 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the user epita
+2018-02-24_17:17:25.388 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a specific record in the User table
+2018-02-24_17:17:37.814 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching the record for the User: ADMIN for authentication
+2018-02-24_17:17:37.829 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Access authentication sucessful for the Username: admin with Password: @123456u
+2018-02-24_17:17:37.829 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user admin to check enable login status 
+2018-02-24_17:17:37.845 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user ADMIN and return the results as a list
+2018-02-24_17:18:51.255 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_17:18:51.255 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_17:19:06.056 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the user epita
+2018-02-24_17:20:23.045 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the user 
+2018-02-24_17:20:25.393 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the user 
+2018-02-24_17:31:32.486 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_17:31:32.486 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_17:40:49.079 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Deleting an application User record for EPITA
+2018-02-24_17:40:51.409 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_17:40:51.409 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_17:51:00.012 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_18:53:45.248 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begin searching for a record of the identity duplicate 2  where FIRSTNAME = DUPLICATE 2
+2018-02-24_18:55:35.118 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_18:56:11.806 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Searching for a record of the identity GH10001FR
+2018-02-24_18:57:26.002 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Searching for a record of the identity GH10001
+2018-02-24_18:59:20.658 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Searching for a record of the identity fr10001
+2018-02-24_18:59:20.799 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Creating a record for an identity TEST TEST
+2018-02-24_19:00:56.940 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_19:07:32.392 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Searching for a record of the identity FR10001
+2018-02-24_19:08:37.087 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Searching for a record of the identity FR10001
+2018-02-24_19:14:23.363 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a specific record in the User table
+2018-02-24_19:14:48.926 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching the record for the User: ADMIN for authentication
+2018-02-24_19:14:48.957 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Access authentication sucessful for the Username: admin with Password: @123456u
+2018-02-24_19:14:48.957 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user admin to check enable login status 
+2018-02-24_19:14:48.976 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user ADMIN and return the results as a list
+2018-02-24_19:14:52.237 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_19:15:01.955 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initialising the process of retrieving all User records and passing them to list
+2018-02-24_19:15:01.955 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Initializing the retrieval of all User record from the Usertable
+2018-02-24_19:15:19.496 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_19:16:39.622 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Updating a record for an identity THOMAS BROUSSARD
+2018-02-24_19:17:58.659 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_19:26:17.571 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_19:27:34.518 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Deleting a record for the identity with unique id GH1002FR1
+2018-02-24_19:29:05.415 - INFO - com.fortress.iacb.services.IdentityBismarkDAOCRUD Begine searching for all records in the IdentityBismark table 
+2018-02-24_19:34:56.274 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a specific record in the User table
+2018-02-24_19:35:04.411 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching the record for the User: ADMIN for authentication
+2018-02-24_19:35:04.458 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Access authentication sucessful for the Username: admin with Password: @123456u
+2018-02-24_19:35:04.458 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user admin to check enable login status 
+2018-02-24_19:35:04.473 - INFO - com.fortress.iacb.services.IBApplicationUserADOCRUD Searching for a record of the application user ADMIN and return the results as a list

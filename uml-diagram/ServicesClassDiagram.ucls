@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.fortress.iacb.services.IBApplicationUserADOCRUD" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IBApplicationUserADOCRUD.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="279" width="406" x="1115" y="389"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.fortress.iacb.services.IdentityBismarkConfigurationService" 
+    project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IdentityBismarkConfigurationService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="266" x="-26" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="com.fortress.iacb.services.IdentityBismarkDAOInterface" 
+    project="IAmCoreBismark" file="/IAmCoreBismark/src/com/fortress/iacb/services/IdentityBismarkDAOInterface.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="357" x="1646" y="708"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="com.fortress.iacb.services.IdentityBismarkLogger" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IdentityBismarkLogger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="185" x="1075" y="708"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.fortress.iacb.services.IBAppUserBusinessLogic" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IBAppUserBusinessLogic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="279" width="475" x="1075" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.fortress.iacb.services.IdentityBismarkDAOCRUD" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IdentityBismarkDAOCRUD.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="393" x="1561" y="389"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.fortress.iacb.services.IdentityBismarkBusinessLogic" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IdentityBismarkBusinessLogic.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="289" x="2137" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="8" language="java" name="com.fortress.iacb.services.IndentityUserInterface" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IndentityUserInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="370" x="290" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="9" language="java" name="com.fortress.iacb.services.IdentityBismarkCloseSQLResources" 
+    project="IAmCoreBismark" file="/IAmCoreBismark/src/com/fortress/iacb/services/IdentityBismarkCloseSQLResources.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="306" x="1300" y="708"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.fortress.iacb.services.IdentityBismarkFileDAO" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IdentityBismarkFileDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="279" width="335" x="700" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.fortress.iacb.services.IdentityBismarkJDBConnection" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/IdentityBismarkJDBConnection.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="246" x="1590" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.fortress.iacb.services.UtilityClass" project="IAmCoreBismark" 
+    file="/IAmCoreBismark/src/com/fortress/iacb/services/UtilityClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="221" x="1876" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="13">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="14" name="closeSQLResource"/>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="16">    
+    <bendpoint x="1084" y="389"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="17" name="IBLOGGER"/>      
+      <multiplicity id="18" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="19">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="20" name="closeSQLResource"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="23" name="IBLOGGER"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="26" name="iBismarkCRUD"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="29" name="ibaUserCRUD"/>      
+      <multiplicity id="30" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="32" name="IBLOGGER"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="35" name="instance"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="37">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
